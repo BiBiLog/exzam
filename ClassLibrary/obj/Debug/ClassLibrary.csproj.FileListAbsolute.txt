@@ -1,0 +1,5 @@
+C:\Users\Администратор\source\repos\Ezam\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\Ezam\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\Администратор\source\repos\Ezam\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\Администратор\source\repos\Ezam\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\Администратор\source\repos\Ezam\ClassLibrary\obj\Debug\ClassLibrary.pdb
